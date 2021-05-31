@@ -17,6 +17,7 @@ python termProject.py
     python -m pip install tensorflow
     ```
 
+- An example run of this script as a screenshot can be found in images/App_Screenshot.png file.
 - Please read the "Explanation of the Dataset" part of "docs/Progress_Report_DL.pdf" to understand what is our input and how the output classification is made as "flagged" and "not flagged".
 - Please read the whole content of "docs/Progress_Report_DL.pdf" for more detail.
 
